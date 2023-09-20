@@ -9,3 +9,9 @@
     height:700px;
 
 }
+@media screen(max-width:576px) {
+    .container{
+        width:auto;
+    }
+    
+}
